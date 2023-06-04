@@ -1,5 +1,5 @@
 
-pickle
+pickle >= 3.10.11  
 numpy>=1.9.2
 scipy>=0.15.1
 scikit-learn==0.22.1
